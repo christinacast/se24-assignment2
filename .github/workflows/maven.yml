@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: default
     env:
-      SONAR_ORGANIZATION: Christina
+      SONAR_ORGANIZATION: GitHub
       SONAR_PROJECT_KEY: christinacast
 
     steps:
